@@ -1,6 +1,6 @@
 # Action Chunking Transformer (refactoring of training and arch creation)
 
-*For a gentle introduction to the Action Chunking transformer as a blog post, please see [here](https://github.com/radekosmulski/ACT_refactor/blob/main/Action_Chunking_Transformer.ipynb).*
+*For a gentle introduction to the Action Chunking Transformer as a blog post, please see [here](https://github.com/radekosmulski/ACT_refactor/blob/main/Action_Chunking_Transformer.ipynb).*
 
 This repository contains a refactor of [the Action Chunking Transformer](https://github.com/tonyzhaozh/act) by Tony Zhao et al (paper: [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705)).
 
